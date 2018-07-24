@@ -1,0 +1,12 @@
+{
+  "webstore": "pizzaportal.pl/rzeszow",
+  "geolocation": {
+    "city": "Rzeszow",
+    "street": "UL. ŻOŁNIERZY 9 DYWIZJI PIECHOTY",
+    "street_number": "8"
+  },
+  "restaurant": {
+    "name": "KFC Witosa",
+    "url": "kfc-witosa"
+  }
+}

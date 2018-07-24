@@ -1,0 +1,19 @@
+{
+  "name": "shake-bot",
+  "version": "0.0.1",
+  "description": "Shake anyone?",
+  "main": "index.js",
+  "repository": "https://github.com/hypeofpipe/shake-bot.git",
+  "author": "Volodymyr <hypeofpipe@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/request": "^2.47.1",
+    "request": "^2.87.0",
+    "ts-node": "^7.0.0",
+    "typescript": "^2.9.2"
+  },
+  "scripts": {
+    "start": "./node_modules/.bin/ts-node"
+  }
+}
